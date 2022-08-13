@@ -13,3 +13,9 @@ cmake --build build
 
 curl -s 'http://localhost:8888'
 ```
+
+## TODO
+- [x] Basic Project Setup
+- [x] Basic API Mocking
+- [ ] Postgres Impl
+- [ ] Better Error Handling
