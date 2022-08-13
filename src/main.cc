@@ -1,4 +1,5 @@
 #include <drogon/drogon.h>
+#include "index.h"
 
 int main() {
   drogon::app().setLogPath("./")
